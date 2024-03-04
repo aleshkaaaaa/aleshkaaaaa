@@ -6,7 +6,7 @@
   </h1>
 </div>
 <div>
-  :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  💼 FrontEnd Engineer
 
   :seedling: Exploring Technical Content Writing.
 
