@@ -29,11 +29,7 @@
   </div>
 
 -
-:fire: My Stats :
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aleshkaaaaa&theme=dark&card_width=500&hide_longest_streak=true" alt="GitHub Streak" /></a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleshkaaaaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
