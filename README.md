@@ -7,11 +7,11 @@
 </div>
 
 ### 👨‍💻 About Me:
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- 🔭 I’m currently working as a Software Engineer, contributing to both frontend and backend for building web applications.
+- 🔭 I’m currently working as a QA Engineer.
 - 🌱 I’m currently exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on LeetCode and work on my personal projects.
+- ⚡ In my free time I learn programming languages ​​for writing ui/ux
 - 📫 How to reach me: [Telegram](https://t.me/aaaleshkaaa)
 
 ---
